@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Algorithm] 백준 1043"
+title:  "[Algorithm] 백준 1043 - 진실 전파"
 tagline: Algorithm
 author: MovingJu
 categories: [Algorithm]
@@ -11,6 +11,6 @@ sitemap:
 comments: true
 ---
 
-작성중.
+재밌는 문제여따.
 
 이상.
