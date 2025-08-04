@@ -11,5 +11,5 @@ COPY . /srv/jekyll
 
 RUN bundle install
 
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "--livereload", "0.0.0.0"]
 
